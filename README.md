@@ -12,11 +12,11 @@ Web Browser                     :  Mozilla, Google Chrome, IE8,OPERA
 
 Software                        :  XAMPP Server
 
-#Modules of Road Accident Reduction System
+# Modules of Road Accident Reduction System
 Admin
 Users
 
-#Admin
+# Admin
 1. Admin can create existing road and also manage the road category
 2. Admin can create Severity and also manage the Severity Category
 3. Admin can create county and also manage the county
@@ -28,7 +28,7 @@ Users
 9. Admin can view all Reports and User information incase they want to contact the user
 
 
-#Users
+# Users
 1. User Registration
 2. User forgot Password
 3. After login user can report accident
@@ -37,7 +37,7 @@ Users
 6. Change Password
 7. View his/her report status if it was handled
 
-#Dashboard
+# Dashboard
 How to run the Complaint Management System (CMS) Project
 1. Download the file
 2. Copy folder
@@ -48,12 +48,12 @@ How to run the Complaint Management System (CMS) Project
 7. Run the script http://localhost/cms (frontend)
 8. For admin panel http://localhost/cms/admin (admin panel)
 
-#Credential for admin panel :
+# Credential for admin panel :
 
 Username: admin
 Password: Test@123
 
-#Credential for user panel :
+# Credential for user panel :
 
 Register as user then sign in
 
